@@ -1,3 +1,4 @@
+//Arseniy Ignatyev Pattern Gen
 public class PatternGen{
     
     public static void stars(int rows){
